@@ -5,11 +5,6 @@
 ### `Desenvolvedor Full Stack PHP` · `Analista de Sistemas`
 
 <p>
-  Transformando requisitos e desafios de negócio em
-  <strong>soluções web eficientes, integradas e sustentáveis.</strong>
-</p>
-
-<p>
   <a href="https://www.linkedin.com/in/francisco-ripardo-maia-junior-7b122a19a/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
