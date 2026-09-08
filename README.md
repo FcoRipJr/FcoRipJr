@@ -149,17 +149,6 @@ Alguns dos meus projetos envolvem:
 
 > Confira os repositórios abaixo para conhecer meus projetos e experimentos.
 
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FcoRipJr&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FcoRipJr&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages">
-
-</div>
 
 ---
 
