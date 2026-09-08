@@ -114,9 +114,9 @@ Durante minha formação em Cyber Segurança, desenvolvi conhecimentos teóricos
 
 ## Experiência
 
-### Desenvolvedor Full Stack — Nuvio Soluções
+### Desenvolvedor Full Stack - Nuvio Soluções
 
-**Jan/2023 — Atual**
+**Jan/2023 - Atual**
 
 Atuação no desenvolvimento e manutenção de sistemas corporativos, com foco em:
 
@@ -133,7 +133,7 @@ Atuação no desenvolvimento e manutenção de sistemas corporativos, com foco e
 
 ### Consultor e Desenvolvedor de Software
 
-**Jan/2022 — Atual**
+**Jan/2022 - Atual**
 
 Projetos e consultorias envolvendo:
 
@@ -145,9 +145,9 @@ Projetos e consultorias envolvendo:
 - Dashboards, relatórios e indicadores
 - Evolução e manutenção de sistemas existentes
 
-### Desenvolvedor Full Stack — RJ Tecnologia
+### Desenvolvedor Full Stack - RJ Tecnologia
 
-**Mai/2022 — Dez/2022**
+**Mai/2022 - Dez/2022**
 
 Desenvolvimento de sistemas para o setor industrial, incluindo controle e monitoramento de produção, utilizando **PHP, JavaScript, HTML, CSS e Oracle**.
 
