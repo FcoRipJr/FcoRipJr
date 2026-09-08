@@ -2,7 +2,7 @@
 
 # Olá, eu sou Francisco Ripardo
 
-### `Desenvolvedor Full Stack PHP` · `Analista de Sistemas`
+### `Desenvolvedor Full Stack PHP` · `Analista de Sistemas` · `Estudante de Cyber Segurança`
 
 <p>
   <a href="https://www.linkedin.com/in/francisco-ripardo-maia-junior-7b122a19a/">
@@ -19,7 +19,7 @@
 
 ## Sobre mim
 
-Sou **Desenvolvedor Full Stack PHP** com experiência no desenvolvimento e sustentação de sistemas corporativos, atuando desde o levantamento de requisitos e modelagem de dados até a implementação, integração, otimização e implantação de soluções.
+Sou **Desenvolvedor Full Stack PHP** com experiência no desenvolvimento e sustentação de sistemas corporativos, atuando desde o levantamento de requisitos e modelagem de dados até a implementação, integração, otimização e implantação de soluções. Também venho aprofundando meus estudos em **Cyber Segurança**, com foco em **Pentest, Red Team, análise de vulnerabilidades e resposta a incidentes**, buscando unir minha experiência em desenvolvimento de software com práticas de segurança ofensiva e defensiva.
 
 Minha experiência envolve principalmente:
 
@@ -32,6 +32,19 @@ Minha experiência envolve principalmente:
 - Dashboards, indicadores e relatórios
 - Autenticação, controle de acesso e permissões
 - Desenvolvimento assistido por IA com **Claude Code e OpenAI Codex**
+
+Durante minha formação em Cyber Segurança, desenvolvi conhecimentos teóricos e práticos em:
+
+- Fundamentos de **Segurança da Informação**
+- Análise de riscos, vulnerabilidades e impacto no negócio
+- Reconhecimento e enumeração com **Nmap**
+- Análise de tráfego com **Wireshark**
+- Avaliação de redes Wi-Fi com **WPA2, handshake e Aircrack-ng**
+- Análise de falhas web com base no **OWASP Top 10**
+- Investigação de logs, autenticação, MFA e acessos suspeitos
+- Fundamentos de **SIEM**, correlação de eventos e Threat Hunting
+- Estudos sobre **phishing, ransomware, DLP e resposta a incidentes**
+- Conceitos de **Cloud Security**, DevSecOps, OT Security e Blockchain Security
 
 ---
 
@@ -76,6 +89,26 @@ Minha experiência envolve principalmente:
   <img src="https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
   <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex">
 </p>
+
+### Cyber Segurança
+
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Nmap-004B8D?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Nmap">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Aircrack--ng-2E3440?style=for-the-badge&logo=linux&logoColor=white" alt="Aircrack-ng">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP">
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge&logo=matrix&logoColor=white" alt="MITRE ATT&CK">
+</p>
+
+- Fundamentos de **Pentest, Red Team, SOC e Resposta a Incidentes**
+- Reconhecimento, enumeração e análise de vulnerabilidades com **Nmap**
+- Análise de tráfego e pacotes com **Wireshark**
+- Avaliação de segurança Wi-Fi com **Aircrack-ng**, WPA2 handshake e wordlists
+- Análise de falhas web com base no **OWASP Top 10**
+- Investigação de logs, autenticação, MFA, SIEM e Threat Hunting
+- Estudos de phishing, ransomware, DLP, Cloud Security, DevSecOps, OT Security e Blockchain Security
 
 ---
 
