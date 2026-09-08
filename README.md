@@ -38,8 +38,6 @@ Minha experiência envolve principalmente:
 - 🔐 Autenticação, controle de acesso e permissões
 - 🤖 Desenvolvimento assistido por IA com **Claude Code e OpenAI Codex**
 
-> 💡 Gosto de trabalhar próximo do problema de negócio para transformar requisitos em software que realmente gere valor.
-
 ---
 
 ## 🛠️ Stack & Tecnologias
@@ -153,19 +151,11 @@ Alguns dos meus projetos envolvem:
 
 <div align="center">
 
-**Aberto a oportunidades, projetos e conexões profissionais.**
-
-<br>
-
 <a href="https://www.linkedin.com/in/francisco-ripardo-maia-junior-7b122a19a/">
   <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:fcoripardojr@gmail.com">
   <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-
-<br><br>
-
-_"Transformando problemas de negócio em soluções de software."_
 
 </div>
