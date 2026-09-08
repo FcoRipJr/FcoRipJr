@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Francisco Ripardo
+# Olá, eu sou Francisco Ripardo
 
 ### `Desenvolvedor Full Stack PHP` · `Analista de Sistemas`
 
@@ -17,25 +17,25 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Sou **Desenvolvedor Full Stack PHP** com experiência no desenvolvimento e sustentação de sistemas corporativos, atuando desde o levantamento de requisitos e modelagem de dados até a implementação, integração, otimização e implantação de soluções.
 
 Minha experiência envolve principalmente:
 
-- 🧩 Sistemas web corporativos com **PHP e Laravel**
-- 🔌 **APIs REST**, Webhooks e integrações entre sistemas
-- 🏦 Integrações bancárias para **PIX e boletos**
-- 🧾 Integrações com APIs de documentos fiscais
-- ⚙️ **Microsserviços, Jobs e Crons**
-- 🗄️ Modelagem e otimização de bancos de dados
-- 📊 Dashboards, indicadores e relatórios
-- 🔐 Autenticação, controle de acesso e permissões
-- 🤖 Desenvolvimento assistido por IA com **Claude Code e OpenAI Codex**
+- Sistemas web corporativos com **PHP e Laravel**
+- **APIs REST**, Webhooks e integrações entre sistemas
+- Integrações bancárias para **PIX e boletos**
+- Integrações com APIs de documentos fiscais
+- **Microsserviços, Jobs e Crons**
+- Modelagem e otimização de bancos de dados
+- Dashboards, indicadores e relatórios
+- Autenticação, controle de acesso e permissões
+- Desenvolvimento assistido por IA com **Claude Code e OpenAI Codex**
 
 ---
 
-## 🛠️ Stack & Tecnologias
+## Stack & Tecnologias
 
 ### Backend
 
@@ -79,9 +79,9 @@ Minha experiência envolve principalmente:
 
 ---
 
-## 💼 Experiência
+## Experiência
 
-### 🏢 Desenvolvedor Full Stack — Nuvio Soluções
+### Desenvolvedor Full Stack — Nuvio Soluções
 
 **Jan/2023 — Atual**
 
@@ -98,7 +98,7 @@ Atuação no desenvolvimento e manutenção de sistemas corporativos, com foco e
 - Correções, otimização de performance e sustentação em produção
 - Uso de **Claude Code e OpenAI Codex** como ferramentas de apoio ao desenvolvimento, refatoração, documentação e análise de código
 
-### 💻 Consultor e Desenvolvedor de Software
+### Consultor e Desenvolvedor de Software
 
 **Jan/2022 — Atual**
 
@@ -112,7 +112,7 @@ Projetos e consultorias envolvendo:
 - Dashboards, relatórios e indicadores
 - Evolução e manutenção de sistemas existentes
 
-### 🏭 Desenvolvedor Full Stack — RJ Tecnologia
+### Desenvolvedor Full Stack — RJ Tecnologia
 
 **Mai/2022 — Dez/2022**
 
@@ -120,7 +120,7 @@ Desenvolvimento de sistemas para o setor industrial, incluindo controle e monito
 
 ---
 
-## 🎓 Formação
+## Formação
 
 **Análise e Desenvolvimento de Sistemas**  
 Formação superior
@@ -130,19 +130,19 @@ Especialização
 
 ---
 
-## 📌 Projetos
+## Projetos
 
 Alguns dos meus projetos envolvem:
 
-- ⚙️ Automação de processos empresariais
-- 📊 Sistemas de gestão e dashboards
-- 🔗 Integrações entre plataformas e APIs
-- 🗃️ Soluções para gerenciamento de informações
-- 🧪 Projetos pessoais para exploração de novas tecnologias
+- Automação de processos empresariais
+- Sistemas de gestão e dashboards
+- Integrações entre plataformas e APIs
+- Soluções para gerenciamento de informações
+- Projetos pessoais para exploração de novas tecnologias
 
 ---
 
-## 📫 Vamos conversar?
+## Vamos conversar?
 
 <div align="center">
 
