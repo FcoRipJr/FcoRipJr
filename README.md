@@ -147,9 +147,6 @@ Alguns dos meus projetos envolvem:
 - 🗃️ Soluções para gerenciamento de informações
 - 🧪 Projetos pessoais para exploração de novas tecnologias
 
-> Confira os repositórios abaixo para conhecer meus projetos e experimentos.
-
-
 ---
 
 ## 📫 Vamos conversar?
